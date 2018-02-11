@@ -7,4 +7,4 @@ and
 3. Brain Networktechnology (code name: Matrix)
 
 # Very Short Introduction <p>
-  Light is intended as a privacy maintaining decentralized organization for brain-to-machine and brain-to-brain communication, counteracting the thread of Artificial Intelligence and Death. 
+  Light is intended as a privacy maintaining decentralized organization for brain-to-machine and brain-to-brain communication, counteracting the thread of Neurological Disorders, Artificial Intelligence and Death. We are looking forward to developing hardware and software, which can ultimately interact with the entire brain.
