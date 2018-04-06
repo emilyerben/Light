@@ -11,3 +11,5 @@ and
   Light is intended as a privacy maintaining decentralized organization for brain-to-machine and brain-to-brain communication, counteracting the thread of Neurological Disorders, Artificial Intelligence and Death. We are looking forward to developing hardware and software, which can ultimately interact with the entire brain.
 
 ![](https://raw.githubusercontent.com/LksWlprn/Light/master/Light%20Stages.png)
+
+Light/Unterprojekte.png
