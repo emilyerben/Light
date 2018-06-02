@@ -83,9 +83,10 @@ The reason that nanotechnology is not already dominating the global market is a 
 Classified
 
 # VR & AR
-
+In the future, a protocol for the generation of virtual and augmented environments will be implemented in Matrix nodes. As a result, the flow of information and bandwidth must be further expanded. So virtual worlds will only become possible in a few years to decades. In addition, many processes must be performed on users' computers to allow the environment to interact with their thoughts and perceptions.
 
 # Mass Production
+If the Replicator can be built, mechanosynthetic nanoparticle production can be distributed between private individuals and organizations so that every owner could potentially code new nanoparticles. This has to be done under the control of Light, but would still increase productivity. Also, Light could help IOTA producing trinary processors on nanoscale. 
 
 # Connectome
 Classified
