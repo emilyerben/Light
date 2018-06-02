@@ -6,8 +6,9 @@ Light will be a project subdivided in three main sections corresponding to the f
 2. Nanotechnology (code name: Cynapse) <p>
 and
 3. Brain Networktechnology (code name: Matrix)
+ 
 
 # Very Short Introduction <p>
   Light is intended as a privacy maintaining decentralized organization for brain-to-machine and brain-to-brain communication, counteracting the thread of Neurological Disorders, Artificial Intelligence and Death. We are looking forward to developing hardware and software, which can ultimately interact with the entire brain.
 
-![](https://github.com/LksWlprn/Light/blob/master/Unterprojekte.png)
+![](https://github.com/LksWlprn/Light/blob/master/Website/Light%20Roadmap.png)
