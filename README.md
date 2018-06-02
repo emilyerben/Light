@@ -57,6 +57,9 @@ This will be discussed in-depth in Lights white paper on this topic.
 (Will probably be published in 2 to 3 years)
 
 # MAM
+
+![](https://github.com/LksWlprn/Light/blob/master/Matrix/1_vxWwHUvl6fdg39F0mGxkkQ.png)
+
 IOTA uses a Gossip protocol for sending Masked Authenticated Messages (MAMs) that sends encrypted messages to Tangle. There, certain nodes receive the message and gossip it to other nodes. If you send messages in the so-called private mode, as long as a node does not know the root, i.e. the channel ID and the hash of the message, it can not read the message. If you are in restrictive mode, only nodes with a sidekey can access your data. So the Tangle allows for secure data transfer that Light will use, to send and store thoughts as well as information about a user’s brain, which is needed for the PoUI. However, one must consider the principle of immutability of these messages. Even IPFS has the problem that files, once stored on its network, can not be removed from the Blockchain again. IOTA does not have this attribute to the same extent because so-called snapshotting and, in this very case, local snapshots can delete the messages again. On a high level, a snapshot of the Tangle aggregates all the transactions of a node into a single transaction, greatly reducing the amount of data on the entire Tangle. The MAMs that are sent before the snapshot disappear with it, which is even relatively positive for Light, because thoughts should not necessarily be stored eternally. Some thoughts might still be saved forever. All one needs is a connection to a Permanode, which still allows to capture data as long as possible. In the future, snapshots could be done locally, whereas today they affect the entire Tangle. Therefore, all messages can be deleted immediately after a call in the local Tangle, which would also be a positive feature.
 
 # Pro
