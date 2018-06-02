@@ -33,7 +33,7 @@ https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-21.pdf
 https://bwrc.eecs.berkeley.edu/sites/default/files/publications-pdf/us4nd_arxiv_v2_0.pdf
 
 --> NanoBMI: <p>
-http://kriorus.ru/sites/kriorus/files/nanomed/NANOMEDI.PDF
+http://kriorus.ru/sites/kriorus/files/nanomed/NANOMEDI.PDF <p>
 https://doi.org/10.1002/adfm.201700905
 https://pubs.acs.org/doi/10.1021/acsnano.5b05647
 
