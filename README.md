@@ -36,6 +36,9 @@ https://doi.org/10.1002/adfm.201700905
 https://pubs.acs.org/doi/10.1021/acsnano.5b05647
 
 # Flash Channels
+
+![](https://github.com/LksWlprn/Light/blob/master/Matrix/1_cj7Wp8szGC1pD_jDSlcXQA.png)
+
 Flash channels are channels created between two parties in the network. These are established apart from the rest of the network and can now communicate or send money offline. Since no PoW must be provided within the Flash Channels, transactions can be sent at the speed of light. This is especially important for Light, as large amounts of data must be transferred in a very short time, as soon as two people or one person and one AI are talking to each other via thoughts. It might be difficult to imagine the use of Flash Channels if more than two people want to communicate. But since the Tangle is free of charge, eliminating routing, instead, one can open multiple Flash Channels simultaneously, creating a network between multiple communication partners. At the end of each communication, one would join the network again to save the transfered money on the Tangle.
 
 # Link
