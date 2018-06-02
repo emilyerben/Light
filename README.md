@@ -28,11 +28,11 @@ Cynapse will develop the hardware for its network und software.
 
 Cynapse is supposed to be the foundation for an error-free interaction between the human brain and the internet of everything. Cynapse will do research on Brain Machine Interfaces, which will use nanoparticles to increase the precision of mind reading. Light has an important decision to make regarding the moral viability of invasive methods that can analyze and interact with the brain. Currently, brain-computer interfaces are often used non-invasively, but as networking progresses, integrating technology into our brains will become inevitable. Therefore, Light will use highly invasive yet biologically safe nanoparticles to operate in the brain. Important functions for such nanoparticles are a harmless injection, interaction between brain and technology, an adequate energy supply, and signal transmission to a computer unit. So far there are few distriptions of micro- or nanotechnological brain-machine-interfaces and almost none for business purposes. 
 
---> MicroBMI:
+--> MicroBMI: <p>
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-21.pdf
 https://bwrc.eecs.berkeley.edu/sites/default/files/publications-pdf/us4nd_arxiv_v2_0.pdf
 
---> NanoBMI: 
+--> NanoBMI: <p>
 http://kriorus.ru/sites/kriorus/files/nanomed/NANOMEDI.PDF
 https://doi.org/10.1002/adfm.201700905
 https://pubs.acs.org/doi/10.1021/acsnano.5b05647
