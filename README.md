@@ -263,3 +263,8 @@ Infinity is a project, with an unbelievable ambitious task. The result could be 
 150. https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf
 151. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.7349&rep=rep1&type=pdf
 152. https://depositonce.tu-berlin.de/bitstream/11303/4734/2/venthur_bastian.pdf
+153. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001080
+154. https://doi.org/10.1016/j.conb.2016.03.002
+155. https://www.youtube.com/user/numenta
+156. http://cnqzu.com/library/Anarchy%20Folder/Nanotechnology/Handbook%20of%20Nanoscience,%20Engineering%20&%20Technology.pdf
+
