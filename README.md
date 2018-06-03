@@ -90,7 +90,7 @@ The reason that nanotechnology is not already dominating the global market is a 
 
 # Fusion
 
-![](https://github.com/LksWlprn/Light/blob/master/Matrix/Fusion/aid317870-v4-900px-Fusion-Dance-in-Dragonball-Z-(Video-Game)-Final.jpg)
+![](https://github.com/LksWlprn/Light/blob/master/Matrix/Fusion/noisuFusion.jpg)
 
 Classified :trollface:
 
