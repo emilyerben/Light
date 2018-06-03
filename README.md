@@ -2,9 +2,9 @@
 
 
 Light will be a project subdivided in three main sections corresponding to the fields <p>
-1. Neuroscience combined with Machine Learning (code name: Link) --> The Software <p>
-2. Nanotechnology combined with Microbiology (code name: Cynapse) --> The Hardware <p>
-3. Networktechnology combined with Distributed Ledger Technology (code name: Matrix) --> The Network
+1. Neuroscience combined with Machine Learning (Link) --> The Software <p>
+2. Nanotechnology combined with Microbiology (Cynapse) --> The Hardware <p>
+3. Networktechnology combined with Distributed Ledger Technology (Matrix) --> The Network
  
 
 # Very Short Intro <p>
