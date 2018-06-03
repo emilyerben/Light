@@ -89,6 +89,9 @@ The reason that nanotechnology is not already dominating the global market is a 
 --> http://www.molecularassembler.com/Papers/MinToolset.pdf
 
 # Fusion
+
+![](https://github.com/LksWlprn/Light/blob/master/Matrix/Fusion/aid317870-v4-900px-Fusion-Dance-in-Dragonball-Z-(Video-Game)-Final.jpg)
+
 Classified
 
 # VR & AR
