@@ -104,9 +104,9 @@ If the Replicator can be built, mechanosynthetic nanoparticle production can be 
 Classified :cookie:
 
 # Inception
-It's Inception, like Incpetion
+It's Inception, like Inception
 
 # Infinity
 Ultimately it is Lights aim to make it possible to live as long as possible. <p>
 (it's definitely not possible to live forever in this universe: https://www.fhi.ox.ac.uk/reports/2012-1.pdf)
-Infinity is a project, with an unbelievable ambitious task. The result could be to upload a brain step by step and gain immortality (well nearly).
+Infinity is a project, with an unbelievable ambitious task. The result could be to upload a brain step by step and gain immortality (well nearly). We think Infinity can be achieved until 2050.
