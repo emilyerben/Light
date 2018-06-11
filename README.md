@@ -93,8 +93,6 @@ The reason that nanotechnology is not already dominating the global market is a 
 
 # Fusion
 
-![](https://github.com/LksWlprn/Light/blob/master/Matrix/Fusion/noisuFusion.jpg)
-
 Classified :trollface:
 
 # VR & AR
