@@ -105,7 +105,7 @@ If the Replicator can be built, mechanosynthetic nanoparticle production can be 
 Classified :cookie:
 
 # Inception
-It's Inception, like Inception
+It's basically Inception
 
 # Infinity
 Ultimately it is Lights aim to make it possible to live as long as possible. <p>
